@@ -1,0 +1,6 @@
+C:\1Kashyap\Chatbot\FL\Rahul\AUJobList-src\obj\Debug\netcoreapp3.1\EchoBot.csprojAssemblyReference.cache
+C:\1Kashyap\Chatbot\FL\Rahul\AUJobList-src\obj\Debug\netcoreapp3.1\EchoBot.AssemblyInfoInputs.cache
+C:\1Kashyap\Chatbot\FL\Rahul\AUJobList-src\obj\Debug\netcoreapp3.1\EchoBot.AssemblyInfo.cs
+C:\1Kashyap\Chatbot\FL\Rahul\AUJobList-src\obj\Debug\netcoreapp3.1\EchoBot.csproj.CoreCompileInputs.cache
+C:\1Kashyap\Chatbot\FL\Rahul\AUJobList-src\obj\Debug\netcoreapp3.1\EchoBot.MvcApplicationPartsAssemblyInfo.cs
+C:\1Kashyap\Chatbot\FL\Rahul\AUJobList-src\obj\Debug\netcoreapp3.1\EchoBot.MvcApplicationPartsAssemblyInfo.cache
